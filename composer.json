@@ -1,0 +1,17 @@
+{
+    "name": "nazar/logger",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nazarii Korol",
+            "email": "nazarkorol3684@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "nazar/loging": "dev-master"
+    },
+    "autoload": {
+    }
+}
